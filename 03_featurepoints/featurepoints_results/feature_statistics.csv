@@ -1,0 +1,5 @@
+image_name,method,feature_count
+cameraman,SIFT,791
+coins,SIFT,655
+checkerboard,SIFT,134
+free_image,SIFT,62593
